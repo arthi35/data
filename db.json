@@ -1,0 +1,92 @@
+{"movies":[
+    
+    {
+     "id":"100",
+      "name": "Shinchan",
+      "poster": "https://m.media-amazon.com/images/I/51bbEj-mEWL.jpg",
+      "rating": 5,
+      "summary":
+        "The Hidden Treasure of the Buri Buri Kingdom released in october 17 2009 Shin-chan, a combination of Dennis The Menace and Howard Stern, is a 5-year-old growing up in Kasukabe in this animated series. His foul mouth and rude behavior constantly scandalize his parents (although his father seems to be a big influence), his teacher, and everyone else with the bad luck to cross his path.",
+  "trailer":"https://youtu.be/6seemvwSudM?list=PLyWmEc-whvDRCku4AbPSjL3X-umKq3lG-"
+      },
+    {
+      "id":"101",
+      "name": " The Ice Age Adventures of Buck Wild (2022)",
+      "poster":
+        "https://m.media-amazon.com/images/M/MV5BMmYxZWY2NzgtYzJjZC00MDFmLTgxZTctMjRiYjdjY2FhODg3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+      "rating": 4.6,
+      "summary":
+        "The Ice Age Adventures of Buck Wild continues the escapades of the possum brothers Crash and Eddie who set out to find a place of their own. Together with the one-eyed weasel, Buck Wild, they face the dinosaurs who inhabit the Lost World.",
+   " trailer":"https://youtu.be/0U0L4uT0btQ"
+      },
+    {
+      "id":"102",
+      "name": "Frozen",
+      "poster":
+        "https://i.pinimg.com/736x/17/14/01/171401c9ec3f0a878dafdc3f8204b3df.jpg",
+      "rating": 7,
+      "summary":
+        "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
+    "trailer":"https://youtu.be/FLzfXQSPBOg"
+      },
+    {
+      "id":"103",
+      "name": "The Incredibels",
+      "poster":
+        "https://www.the-arcade.ie/wp-content/uploads/2015/05/theincredibles.jpg",
+      "rating": 7.5,
+      "summary":
+        "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.",
+    "trailer":"https://youtu.be/-UaGUdNJdRQ"
+      },
+    {
+      "id":"104", 
+      "name": "Stuart Little",
+      "poster":
+        "https://i.pinimg.com/736x/42/d2/00/42d2007d25084cf30401e9461b6c2243--childhood-characters-cartoon-characters.jpg",
+      "rating": 7,
+      "summary":
+        "The film was released on December 17, 1999 by Columbia Pictures.[5] The film received generally positive reviews, and was nominated for an Academy Award for Best Visual Effects, losing to The Matrix.",
+    "trailer":"https://youtu.be/Wlo-sYrADlw"
+      },
+    {
+      "id":"105",
+      "name": "HarryPotter",
+      "poster":
+        "https://www.whatspaper.com/wp-content/uploads/2021/07/harry-potter-wallpaper-whatspaper.jpg",
+      "rating": 8,
+      "summary":
+        "The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and Muggles (non-magical people).",
+   "trailer":"https://www.youtube.com/embed/VyHV0BRtdxo"
+      },
+    {
+      "id":"106",
+      "name": "Shrek",
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/224f551f960a84de711330f6b3f09cfdb2205cb94e24c2da2a7d7984f1fcd11f._RI_V_TTW_.jpg",
+      "rating": 7,
+      "summary":
+        "Shrek is a 2001 American computer-animated comedy film loosely based on the 1990 fairy tale picture book of the same name by William Steig",
+   "trailer":"https://www.youtube.com/embed/CwXOrWvPBPk"
+      },
+    {
+      "id":"107",
+      "name": "Hulk",
+      "poster":
+        "https://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bc46a035bdeb/standard_incredible.jpg",
+      "rating": 8,
+      "summary":
+        "Scientist Bruce Banner is exposed to gamma radiation, which has its unique side effect. During his acts of resentments, Bruce transforms into an infuriated green monster.",
+   "trailer":"https://www.youtube.com/embed/xbqNb2PFKKA"
+      },
+    {
+      "id":"108",
+      "name":"Kung Fu Panda",
+      "poster": "https://m.media-amazon.com/images/I/51xlf28jbiL.jpg",
+      "rating": 6,
+      "summary":
+        "To everyone's surprise, including his own, Po, an overweight, clumsy panda, is chosen as protector of the Valley of Peace. His suitability will soon be tested as the valley's arch-enemy is on his way.",
+  "trailer":"https://youtu.be/PXi3Mv6KMzY"
+      }
+  ]
+}
